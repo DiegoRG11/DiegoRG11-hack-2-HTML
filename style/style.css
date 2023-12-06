@@ -1,1 +1,29 @@
+#azul {
+    background: #93B5C9;
+    width: auto;
+    height: 100px;
+}
 
+#rojo {
+    background: #AB2849;
+    width: auto;
+    height: 200px;
+}
+
+.contenedor #line {
+    float: left;
+    background: #AB2849;
+    width: 80%;
+    height: 100px;
+    margin-top: 15px ;
+}
+
+#final {
+    background: #AB2849;
+    width: 98%;
+    height: 100px;
+    float: left;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
